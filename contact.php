@@ -77,7 +77,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         >
           <ul class="navbar-nav me-auto mb-2 mb-lg-0">
             <li class="nav-items">
-              <a class="nav-link" href="#">Home</a>
+              <a class="nav-link" href="home.html">Home</a>
             </li>
             <li class="nav-items">
               <a class="nav-link" href="#blogg">Categories</a>
